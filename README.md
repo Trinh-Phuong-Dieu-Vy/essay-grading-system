@@ -18,3 +18,9 @@ Hệ thống hỗ trợ giảng viên tải lên bài làm tự luận và đáp
 | 4 | [Thành viên 3 điền tên] | [MSSV] | Xử lý tải lên & đọc dữ liệu file hàng loạt `.docx`, `.pdf`, `.txt` (`services/`) | @[username] |
 | 5 | [Thành viên 4 điền tên] | [MSSV] | Thiết lập thang điểm, trọng số từ khóa & giải thích chi tiết điểm (`services/`) | @[username] |
 | 6 | [Thành viên 5 điền tên] | [MSSV] | Đăng ký, đăng nhập, quản lý tài khoản & Kiểm thử (`tests/`) | @[username] |
+
+## Danh sach thanh vien
+
+| STT | Ho va ten | Ma sinh vien | Tai khoan GitHub |
+| :--- | :--- | :--- | :--- |
+| 1 | Tang Thi Thuy Hang | 25S1020031 | thuyhang72883-svg |
