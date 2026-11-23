@@ -16,5 +16,5 @@ Hệ thống hỗ trợ giảng viên tải lên bài làm tự luận và đáp
 | 2 | [Thành viên 1 điền tên] | [MSSV] | Kiến trúc hệ thống & Giao diện (`ui/`) | @[username] |
 | 3 | Nguyễn Đăng Thanh Huyền | 25S1020048 | Xử lý Model & Dữ liệu (`models/`, `database/`) | @thanhhuyn106-pixel |
 | 4 | [Thành viên 3 điền tên] | [MSSV] | Xử lý chuỗi & Tiền xử lý tiếng Việt (`services/`) | @[username] |
-| 5 | [Thành viên 4 điền tên] | [MSSV] | Thuật toán kiểm tra đạo văn (`services/`) | @[username] |
+| 5 | Võ Thị Lam Phương | 25S1020083 | Thuật toán kiểm tra đạo văn (`services/`) | @Lamphuong211 |
 | 6 | [Thành viên 5 điền tên] | [MSSV] | Thuật toán chấm điểm & Kiểm thử (`tests/`) | @[username] |
