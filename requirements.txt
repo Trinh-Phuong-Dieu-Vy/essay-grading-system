@@ -1,0 +1,9 @@
+mysql-connector-python
+sqlalchemy
+pymysql
+python-dotenv
+python-docx
+underthesea
+scikit-learn
+sentence-transformers
+rapidfuzz
