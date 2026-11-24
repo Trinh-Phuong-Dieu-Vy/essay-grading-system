@@ -18,4 +18,3 @@ Hệ thống hỗ trợ giảng viên tải lên bài làm tự luận và đáp
 | 4 | Trần Thị Quỳnh Giao | 25S1020026 | Xử lý tải lên & đọc dữ liệu file hàng loạt `.docx`, `.pdf`, `.txt` (`services/`) | @tranquynhgiao007-blip |
 | 5 | Võ Thị Lam Phương | 25S1020083 | Thiết lập thang điểm, trọng số từ khóa & giải thích chi tiết điểm (`services/`) | @Lamphuong211 |
 | 6 | Nguyễn Thị Thanh Hiền | 25S1020034 | Đăng ký, đăng nhập, quản lý tài khoản & Kiểm thử (`tests/`) | @Thanhhien07-th |
-
