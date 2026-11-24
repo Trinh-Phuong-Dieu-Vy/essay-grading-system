@@ -13,7 +13,7 @@ Hệ thống hỗ trợ giảng viên tải lên bài làm tự luận và đáp
 | STT | Họ và Tên | Mã Sinh Viên | Vai trò / Phụ trách chính | Tài khoản GitHub |
 | :---: | :--- | :--- | :--- | :--- |
 | 1 | Trịnh Phương Diệu Vy | 25S1020117 | Nhóm trưởng – Quản lý dự án & Lõi AI/CSDL | @Trinh-Phuong-Dieu-Vy |
-| 2 | [Thành viên 1 điền tên] | [MSSV] | Kiến trúc hệ thống & Giao diện (`ui/`) | @[username] |
+| 2 | Tăng Thị Thúy Hằng | 25S1020031 | Kiến trúc hệ thống & Giao diện (`ui/`) | @thuyhang72883-svg |
 | 3 | Nguyễn Đăng Thanh Huyền | 25S1020048 | Xử lý Model & Dữ liệu (`models/`, `database/`) | @thanhhuyn106-pixel |
 | 4 | [Thành viên 3 điền tên] | [MSSV] | Xử lý tải lên & đọc dữ liệu file hàng loạt `.docx`, `.pdf`, `.txt` (`services/`) | @[username] |
 | 5 | Võ Thị Lam Phương | 25S1020083 | Thiết lập thang điểm, trọng số từ khóa & giải thích chi tiết điểm (`services/`) | @Lamphuong211 |
