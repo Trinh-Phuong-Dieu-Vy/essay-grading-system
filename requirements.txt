@@ -3,3 +3,12 @@ mysql-connector-python
 python-docx
 pandas
 python-dotenv
+mysql-connector-python
+sqlalchemy
+pymysql
+python-dotenv
+python-docx
+underthesea
+scikit-learn
+sentence-transformers
+rapidfuzz
